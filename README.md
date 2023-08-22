@@ -1,4 +1,4 @@
-<img align="center" src="ezgif.com-video-to-gif.gif" alt="I Code || You Repository || We Project">
+<img  src="ezgif.com-video-to-gif.gif" alt="I Code || You Repository || We Project" align="center">
 <h1 align="center">Hi 👋, I'm Saksham Singhal</h1>
 <h3 align="center">Full Stack and AI Enthusiast</h3>
 <img align="right" alt="Me Working || You Help" width="400" src="- Find & Share on GIPHY.gif">
