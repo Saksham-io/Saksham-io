@@ -15,7 +15,7 @@
 ## ╰(*°▽°*)╯ My Social Media Links:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saksham.io?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D ) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/saksham-singhal-568877244) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-singhal-568877244/)
 
 # (❁´◡`❁) My Tech Ecosystem:
 
